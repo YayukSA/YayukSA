@@ -6,10 +6,8 @@
 
 ## 🚀 About Me
 
-- 🧫 Bioinformatics | Microbiome | Metabolic Pathways
-- ⚙️ HPC & workflow development
-- 🧠 Interested in multi-omics + AI
-- 🇭🇺 Based in Szeged
+- 🧫 Statistician | Data Analyst 
+-  Based in Indonesia
 
 ---
 
